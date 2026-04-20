@@ -1,0 +1,4 @@
+# Añade aquí las dependencias Python extra para tus módulos personalizados
+# Ejemplo:
+# xlrd==2.0.1
+# reportlab
